@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.blok-1 {
+    float: left;
+    width: 600px;
+    height: 70px;
+    background: orange;
+}
+.blok-2 {
+    float: left;
+    width: 150px;
+    height: 200px;
+    background: #fc0303;
+    clear: both;
+}
+.blok-3 {
+    float: left;
+    width: 150px;
+    height: 200px;
+    background: #218821;
+}
+.blok-4 {
+    float: left;
+    width: 150px;
+    height: 200px;
+    background: #00ccff;
+}
+.blok-5 {
+    float: left;
+    width: 150px;
+    height: 200px;
+    background: #000000;
+}
+.blok-6 {
+    float: left;
+    width: 600px;
+    height: 70px;
+    background: orange;
+}
+.blok-7 {
+    width: 605px;
+    height: 345px;
+    background: #000000;
+}
